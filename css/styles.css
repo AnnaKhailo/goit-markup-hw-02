@@ -23,7 +23,7 @@ button {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
@@ -53,6 +53,10 @@ button {
 .menu-link:hover,
 .menu-link:focus {
     color: #404BBF;
+}
+
+.contacts {
+    font-style: normal;
 }
 
 .contacts-link {
